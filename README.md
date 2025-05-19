@@ -423,6 +423,8 @@ CodeBlocks เป็น IDEs(Integrated Development Environments) หรือ�
     
     // Output = 1 3 5 7 9
 
+<br>
+
 # Array
 
 `array` เป็น Data Struct อย่างนึงที่สามารถเก็บข้อมูลได้หลายๆตัว มีวิธีประกาศดังนี้
@@ -584,6 +586,7 @@ CodeBlocks เป็น IDEs(Integrated Development Environments) หรือ�
 <img src="https://www.asc.ohio-state.edu/demarneffe.1/LING5050/material/ASCII-Table.png" width="700px" align="center">
 ขอบคุณภาพจาก https://www.asc.ohio-state.edu/demarneffe.1/LING5050/material/characters.html
 
+<br>
 <br>
 
 # String
